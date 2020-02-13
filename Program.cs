@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace merging
 {
@@ -20,6 +20,16 @@ namespace merging
             Console.WriteLine("Feature 1 on Feature");
             //commit 3
             Console.WriteLine("Feature 1 on Feature");
+
+            for (int i = 0; i < 10; i++)
+            {
+
+                for (int j = i; j > 0; j--)
+                {
+                    System.Console.Write(j);
+                }
+                System.Console.WriteLine();
+            }
 
             /*Feature2*/
             Console.WriteLine("Commit1 on Feature2");
