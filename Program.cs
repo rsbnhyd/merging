@@ -16,6 +16,8 @@ namespace merging
             Console.WriteLine("Commit 2 on my-local");
             /* Feature1 */
             Console.WriteLine("Feature 1 on Feature");
+            //commit 2
+            Console.WriteLine("Feature 1 on Feature");
 
         }
     }
