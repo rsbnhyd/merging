@@ -23,7 +23,12 @@ namespace merging
 
             for (int i = 0; i < 10; i++)
             {
-                System.Console.WriteLine(i);
+
+                for (int j = i; j > 0; j--)
+                {
+                    System.Console.Write(j);
+                }
+                System.Console.WriteLine();
             }
 
         }
