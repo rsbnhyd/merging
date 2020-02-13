@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 
 namespace merging
 {
@@ -14,6 +14,9 @@ namespace merging
 
             Console.WriteLine("Commit 1 on my-local");
             Console.WriteLine("Commit 2 on my-local");
+
+            //FEATURE3
+            Console.WriteLine("Commit  on Feature3 branch");
 
         }
     }
