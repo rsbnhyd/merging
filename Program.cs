@@ -21,6 +21,11 @@ namespace merging
             //commit 3
             Console.WriteLine("Feature 1 on Feature");
 
+            for (int i = 0; i < 10; i++)
+            {
+                System.Console.WriteLine(i);
+            }
+
         }
     }
 }
