@@ -18,6 +18,8 @@ namespace merging
             /*Feature2*/
             Console.WriteLine("Commit1 on Feature2");
 
+            Console.WriteLine("Commit2 on Feature2");
+
         }
     }
 }
