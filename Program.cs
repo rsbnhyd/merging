@@ -20,6 +20,8 @@ namespace merging
 
             Console.WriteLine("Commit 2 on Feature3 branch");
 
+            Console.WriteLine("Commit 3 on Feature3 branch");
+
         }
     }
 }
